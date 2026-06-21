@@ -50,3 +50,7 @@ The goal was to simulate a small business environment using Windows Server and c
 - Windows 11
 - Windows 10 
 - Hyper-V
+
+## Windows Server AD Lab
+
+![image alt]([imaage_url](https://github.com/romannnoori09/Windows-Server-Active-Directory-Lab/blob/8edc56e476e63fc4eb692cdd4896970d599817a8/Server-Manager.png.PNG))
