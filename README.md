@@ -58,8 +58,10 @@ The goal was to simulate a small business environment using Windows Server and c
 
 ## Windows Server AD Users & Computers
 
+![image alt](https://github.com/romannnoori09/Windows-Server-Active-Directory-Lab/blob/main/AD-Users-Groups.png%201.PNG)
 ![image alt]()
-
+![image alt]()
+![image alt]()
 
 
 ## AD Group Policy
