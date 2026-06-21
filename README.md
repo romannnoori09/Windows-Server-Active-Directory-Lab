@@ -64,7 +64,7 @@ The goal was to simulate a small business environment using Windows Server and c
 
 ## AD Group Policy
 
-![image alt]()
+![image alt](https://github.com/romannnoori09/Windows-Server-Active-Directory-Lab/blob/main/Group-Policy.png%201.PNG)
 
 
 
