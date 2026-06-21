@@ -70,6 +70,6 @@ The goal was to simulate a small business environment using Windows Server and c
 
 ## AD Client joined to Domain
 
-![image alt]()
+![image alt](https://github.com/romannnoori09/Windows-Server-Active-Directory-Lab/blob/main/Client%20Doamin%20joined.png)
 
 
